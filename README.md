@@ -31,3 +31,5 @@ import unidecode
 from google.colab import drive
 drive.mount("/content/drive")
 ```
+
+## m1 mac
