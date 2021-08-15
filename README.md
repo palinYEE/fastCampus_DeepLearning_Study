@@ -15,6 +15,11 @@
    - 4 - Ch 02. 08.tit with tf.data
    - ~~4 - Ch 02. 09.callbacks - tensorboard - 2 ~~
    - 4 - Ch 02. 10.callbacks - tensorboard - 2
+ - [2021_08_15.ipynb](2021_08.15.ipynb)
+   - 4 - Ch 02. 12. callbacks - model checkpoint
+   - 4 - Ch 02. 13. post process - history (결과 확인)
+   - 4 - Ch 02. 14. post process - predict & predict_generator
+   - 4 - Ch 02. 15. save and load model - h5
 
 
 # 참고
