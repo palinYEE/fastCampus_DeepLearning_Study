@@ -21,6 +21,10 @@
    - 4 - Ch 02. 14. post process - predict & predict_generator
    - 4 - Ch 02. 15. save and load model - h5
 
+ - [2021_08_21.md](2021_08_21.md)
+   - 5 - Ch 02. 01. (STEP 1) 얕은 신경망의 구조
+   - 5 - Ch 02. 02. (STEP 1) 얕은 신경망을 이용한 분류와 회귀
+   - 5 - Ch 02. 03. (STEP 2) 얕은 신경망의 수식적 이해
 
 # 참고
 
